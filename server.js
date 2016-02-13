@@ -10,7 +10,7 @@ mongo.connect('mongodb://localhost:27017/app', function (err, db) {
 var handleRequest = function handleRequest(request, response){
     if (request.url==='/index.html') {
         response.writeHeader(200, {'Content-type':'text/html'});
-        response.end(fs.readFileSync('./index.html'));
+        response.end(fs.readFileSync('./app/index.html'));
     } else if(request.url==='/posts') {
         response.writeHeader(200, {'Content-type':'application/json'});
         DB.collection('posts').find().toArray(function (err, users) {

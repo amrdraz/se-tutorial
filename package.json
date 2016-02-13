@@ -1,0 +1,23 @@
+{
+  "name": "c-15",
+  "version": "1.0.0",
+  "description": "A starter template for the se classes",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/se-2016-c-15/se-tutorial.git"
+  },
+  "author": "Amr Draz <amr.m.draz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/se-2016-c-15/se-tutorial/issues"
+  },
+  "homepage": "https://github.com/se-2016-c-15/se-tutorial#readme",
+  "dependencies": {
+    "mongodb": "^2.1.7"
+  }
+}
