@@ -7,7 +7,7 @@
 | Youssef   | @gitusername |
 | Menna   | @gitusername |
 | Yasmin   | @gitusername |
-| Mariam   | @gitusername |
+| Mariam K.  | @MKorashi |
 | Ahmed   | @gitusername |
 | Hani    | @gitusername |
 | Ali   | @gitusername |
