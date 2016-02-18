@@ -36,9 +36,7 @@ After this tutorial you should have build a very simple To-DO list tested restfu
 ## Pre
 
 - If you haven't yet fill this [form][student-form] while creating a github account
-- [Fork][fork] this repo if you haven't already
 - Complete [this tutorial][express-rest]
-- 
 - Learn JQuery
   -  [see try jquery course](http://try.jquery.com/) should take 3 hours to fully complete.
 
@@ -59,6 +57,9 @@ After this tutorial you should have build a very simple To-DO list tested restfu
 - Have enriching philosophical discussions with your TA on life and ant logic, or octocats.
 
 ## Post Tutorial
+
+For more on jQuery [checkout](http://www.w3schools.com/jquery/)
+Done with your assignment Try building a TO-Do app with [jQuery or angular](http://todomvc.com/)
 
 
 
