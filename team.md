@@ -6,7 +6,7 @@
 | Hossame Mohamed   | @gitusername |
 | Youssef   | @gitusername |
 | Menna   | @gitusername |
-| Yasmin   | @gitusername |
+| Yasmin   | @Yasmine-Moussa |
 | Mariam   | @gitusername |
 | Ahmed   | @gitusername |
 | Hani    | @gitusername |
