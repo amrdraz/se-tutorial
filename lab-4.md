@@ -3,6 +3,16 @@
 ## Your Objective
 
 Complete [this tutorial][express-rest]
+--if you face a problem with unmet peer deficiency running npm start after editing the package.json:-
+--use the following dependancies: 
+    "mongodb": "~1.4",
+    "mongoskin": "1.4.13",
+    "monk": "~1.0.1"
+--When you install the mongoose module by npm, it does not have a built bson module in it's folder. In the file --node_modules/mongoose/node_modules/mongodb/node_modules/bson/ext/index.js, change the line
+--  bson = require('../build/Release/bson');
+--  to
+--  bson = require('bson');
+--and then install the bson module using npm.
 
 ## Tutorial Expected Objective
 
