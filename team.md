@@ -2,7 +2,7 @@
 
 | name    |    username  |
 | ------- | ------------ |
-| Hamza   | @gitusername |
+| Hamsa   | @hamsakh |
 | Hossame Mohamed   | @gitusername |
 | Youssef   | @gitusername |
 | Menna   | @gitusername |
