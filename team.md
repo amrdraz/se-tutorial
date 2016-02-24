@@ -5,7 +5,7 @@
 | Hamsa   | @hamsakh |
 | Hossame Mohamed   | @gitusername |
 | Youssef   | @gitusername |
-| Menna   | @gitusername |
+| Menna   | @Menna-Elgohary|
 | Yasmin   | @gitusername |
 | Mariam   | @gitusername |
 | Ahmed   | @gitusername |
