@@ -306,7 +306,7 @@ $ npm start
 
 ### Static Files
 
-A static resource page is a page that is served as is and was not generated pragmatically.
+A static resource page is a page that is served as is and was not generated programatically.
 
 Examples of these resources are html, css, javascript, images, video, and audio files to name a few.
 
