@@ -3,7 +3,7 @@
 | name    |    username  |
 | ------- | ------------ |
 | Hamsa   | @hamsakh |
-| Hossame Mohamed   | @gitusername |
+| Hossam Mohammed   | @Hossam-Youssef |
 | Youssef   | @gitusername |
 | Menna   | @Menna-Elgohary|
 | Yasmin   | @gitusername |
